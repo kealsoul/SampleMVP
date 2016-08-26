@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0-7d39589489cccbb391fbde099cae8b920ddcd54d.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\classes-6f66e75d928040e569e41cb1d6e4025cef3b861d.jar" />
+    </item>
+    <item
+        jar="D:\worktools\android_studio_sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0-7487e7aa539d63e3c67e340403fa80ee9921ed66.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0-9a29f9b19052da71295f24313455e8b582addc23.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\classes-89d8c36a8279c8d392d7bd71e3b8488a41ef6924.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\classes-17f552d6690279003c68165cd31c8342d3453f73.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\classes-3750748b4e22eea4969558217c7e27a73014b16c.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="9fc69c9eb208228b7feef1d3108ef28a16cc3abf">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\classes-1ef55033bd695958cf720908888f51259d5d564f.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\classes-515a1a835e92dd10c335d3675d640ac62637720f.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\classes-6e43c31b0d6cf5d3c48d7fe229c2e364fd93a85a.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\classes-b7a94a815a670c0fcfed8fe69707d1597430813d.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\classes-51772077b10169b68a4880e2ef622f1fcfc6ea99.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\classes-220100b99a62961e245afd0cc5703b6f7d945b61.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0-1f7865d5c3325c1c3b90f9d648fc4eb799855a90.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0-65c804c981e277c82fe8d712d2c799f614855a10.jar" />
+    </item>
+    <item
+        jar="D:\Android_studio_work\TestMVP\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0-6cc049ee36d9919fc4dfedd974ed004488c11704.jar" />
+    </item>
+    <item
+        jar="C:\Users\世福\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.3.0\e1707f3752463c5d240f427240a54762d7b60474\butterknife-annotations-8.3.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e1707f3752463c5d240f427240a54762d7b60474">
+        <dex dex="D:\Android_studio_work\TestMVP\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.3.0-80eee2e3627587bae68da56bcc7f6c934229c5f4.jar" />
+    </item>
+
+</items>
